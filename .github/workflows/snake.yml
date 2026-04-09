@@ -2,8 +2,8 @@ name: Generate Contribution Grid
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # 
-  workflow_dispatch: 
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,22 +12,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Contribution Grid SVG
-        uses: arias-fede/github-contributions-graph@v1
+      - name: Generate Grid
+        uses: Platane/snk@v3
         with:
-          github_user: Shhuuuaaaa
-          show_total_contributions: true
-          show_streak: false
-          color_0: "#161b22" 
-          color_1: "#bfd6f6" 
-          color_2: "#8dbdff" 
-          color_3: "#4b91f1" 
-          color_4: "#1a73e8" 
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid.svg?palette=github-light
+            dist/github-contribution-grid-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
