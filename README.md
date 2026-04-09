@@ -74,8 +74,8 @@ After earning my **Web & Mobile Web Developer** (DWWM) certification, I am now f
 ### 📈 GitHub Activity
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shhuuuaaaa/Shhuuuaaaa/output/dist/github-contribution-grid-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shhuuuaaaa/Shhuuuaaaa/output/dist/github-contribution-grid.svg">
-    <img alt="Joshua's Contribution Grid" src="https://raw.githubusercontent.com/Shhuuuaaaa/Shhuuuaaaa/output/dist/github-contribution-grid.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shhuuuaaaa/Shhuuuaaaa/output/github-contribution-grid-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shhuuuaaaa/Shhuuuaaaa/output/github-contribution-grid.svg">
+    <img alt="Joshua's Contribution Grid" src="https://raw.githubusercontent.com/Shhuuuaaaa/Shhuuuaaaa/output/github-contribution-grid.svg">
   </picture>
 </p>
