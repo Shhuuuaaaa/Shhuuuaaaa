@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Contribution Grid
 
 on:
   schedule:
@@ -10,22 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4 
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate Contribution Grid SVG
+        uses: arias-fede/github-contributions-graph@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user: Shhuuuaaaa
+          show_total_contributions: true
+          show_streak: false
+          color_0: "#161b22" 
+          color_1: "#bfd6f6" 
+          color_2: "#8dbdff" 
+          color_3: "#4b91f1" 
+          color_4: "#1a73e8" 
 
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4 
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
