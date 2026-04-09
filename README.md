@@ -71,10 +71,7 @@ After earning my **Web & Mobile Web Developer** (DWWM) certification, I am now f
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shhuuuaaaa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Joshua's Stats" />
-</p>
-
+### 📈 GitHub Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shhuuuaaaa/Shhuuuaaaa/output/github-contribution-grid-snake.svg" alt="Joshua's Snake Game" />
 </p>
