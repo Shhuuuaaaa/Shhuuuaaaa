@@ -73,5 +73,5 @@ After earning my **Web & Mobile Web Developer** (DWWM) certification, I am now f
 
 ### 📈 GitHub Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shhuuuaaaa/Shhuuuaaaa/output/github-contribution-grid-snake.svg" alt="Joshua's Snake Game" />
+  <img src="https://raw.githubusercontent.com/Shhuuuaaaa/Shhuuuaaaa/output/github-contribution-grid.svg" alt="Joshua's Contribution Grid" />
 </p>
