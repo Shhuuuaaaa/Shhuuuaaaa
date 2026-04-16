@@ -1,27 +1,33 @@
 # Hey, I'm Joshua Prevost 👋
-### 🌐 Fullstack Developer (DWWM Certified) | 🚩 Transitioning to Pentesting & Red Team
+### 🌐 Fullstack Developer (DWWM Certified) | 🚩 Professional transition to Cybersecurity
 
-After earning my **Web & Mobile Web Developer** (DWWM) certification, I am now following an intensive 14-week "Cyber Objective" roadmap to move from web development to **Pentesting and Red Teaming**.
+After earning my **Web & Mobile Web Developer** (DWWM) certification, I am now following an intensive 16-week "Cyber Objective" roadmap to move from web development to **Cybersecurity**.
 
 ---
 
-## 🛡️ Cybersecurity Roadmap (Current: Week 9/14)
+## 🛡️ Mastered Cybersecurity Skills
 
-### ✅ Completed & Mastered (Weeks 1 to 8)
-* **Networking & Flows:** IP Architecture, OSI Model, TCP/UDP protocols, and packet analysis with **Wireshark**.
-* **System Admin & Low-Level:** Advanced Linux CLI, permissions, and **CPU/Memory architecture** (RAM, Stack vs Heap).
-* **Infrastructure & Containers:** Log analysis and environment isolation with **Docker**.
-* **Active Directory (AD):** Domain Controllers, Forest/Domain logic, GPOs, and secure SI architecture.
-* **Network Defense & Context:** Firewall configuration (**UFW**), VPNs, and French cybersecurity doctrines (**ANSSI**).
+### ✅ Network Security & Analysis
+* **Protocol Analysis:** Deep understanding of the OSI model and TCP/UDP traffic. Proficient in **Wireshark** for packet inspection and troubleshooting.
+* **Network Defense:** Implementation of security layers using **UFW** firewalls and VPNs, following **ANSSI**'s hardening guidelines.
+* **Service Discovery:** Advanced network reconnaissance and service fingerprinting using **Nmap**.
 
-### 🎯 Currently Learning (Week 9)
-* **Offensive Lab:** Mastering Pentest methodologies (Recon, Scan, Gaining Access) on **Kali Linux**.
-* **Exploitation Tools:** Service enumeration with **Nmap** and exploitation via **Metasploit Framework**.
+### ✅ Systems & Software Security
+* **Linux Administration:** Proficient in CLI-based management, advanced permissions, and secure SSH configuration.
+* **Systems & Binary Logic:** Solid understanding of **Memory management** (RAM, Stack vs Heap), process execution, and binary logic fundamentals.
+* **Containers & Logging:** Mastering environment isolation with **Docker** and performing forensic log analysis for intrusion detection.
+* **Directory Services:** Understanding **Active Directory** environments, GPO management, and Kerberos authentication flows.
 
-### 🚀 Upcoming Objectives (Weeks 10 to 14)
+### ✅ Offensive Operations (Hands-on)
+* **Pentesting Methodology:** Executing structured audits (Reconnaissance, Scanning, Gaining Access) within a **Kali Linux** environment.
+* **Exploitation Frameworks:** Identifying and exploiting service vulnerabilities using the **Metasploit Framework**.
+
+---
+
+## 🚀 Future Objectives & Research
+* **Binary Exploitation:** Deepening **C language** (Pointers, Memory Allocation) to understand Buffer Overflows and memory corruption.
+* **Security Scripting:** Building custom tools and honeypots with **Python**.
 * **Web Hacking:** Deep dive into **OWASP Top 10** (SQLi, XSS, IDOR) using Burp Suite.
-* **Privilege Escalation & Cloud:** Mastering Shells and **Cloud Security** (AWS/Azure).
-* **Defense & Risk Analysis:** Blue Teaming, **SIEM (Splunk)**, and **EBIOS RM** assessment.
 
 ---
 
@@ -51,9 +57,9 @@ After earning my **Web & Mobile Web Developer** (DWWM) certification, I am now f
 ## 💻 Developer Core (The Foundation)
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node JS](https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) |
+| **Core Logic & Scripting** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node JS](https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
+| **Web Architecture & Data** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **DevOps & Workflow** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) |
 
 ---
 
