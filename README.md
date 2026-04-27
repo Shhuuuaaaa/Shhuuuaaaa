@@ -1,5 +1,5 @@
 # Hey, I'm Joshua Prevost 👋
-### 🛡️ Incoming Cybersecurity Student @ [École 2600](https://www.ecole2600.com/) (B3 - Fall 2026) | 💻 Fullstack Developer
+### 🛡️ Incoming Cybersecurity Student @ [École 2600](https://www.ecole2600.com/) (B3 - Fall 2026) | 💻 Former Fullstack Developer
 
 After earning my **Web & Mobile Web Developer** (DWWM) certification, I am proud to announce that I'll be joining **École 2600** this upcoming semester for their **Cybersecurity Bachelor (B3)**. My goal is to leverage my fullstack background to become a highly technical offensive security specialist.
 
