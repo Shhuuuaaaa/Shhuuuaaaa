@@ -57,9 +57,8 @@ After earning my **Web & Mobile Web Developer** (DWWM) certification, I'll be jo
 ## 🚀 Current Projects & Roadmap
 
 ### 🔧 In Progress
-* 🔐 **Secure CI/CD Pipeline** (GitHub Actions · Semgrep · Gitleaks · Trivy) — SAST, secret detection, Docker image scanning, **automated CVE reports**.
-* 🐳 **Docker Hardening & Audit** (Trivy · Docker Bench · GitHub Actions) — Vulnerable infra audit, hardening (non-root, minimal images), **before/after scoring in CI**.
-* 🌐 **SOA-Website** (Next.js · HTML · CSS) — End-to-end client project: sketch, UI/UX, development, production — secure HTTP headers, SEO.
+🐳 Docker Hardening & Audit (Trivy · Docker Bench · GitHub Actions) — Vulnerable infra audit, hardening (non-root, minimal images), before/after scoring in CI.
+🌐 SOA-Website (Next.js · HTML · CSS) — End-to-end client project: sketch, UI/UX, development, production — secure HTTP headers, SEO.
 
 ### 🎯 Pre-B3 Objectives
 * **Low-Level Fundamentals:** Diving into **C language** and **x86 Architecture** to prepare for binary exploitation modules.
